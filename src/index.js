@@ -5,7 +5,7 @@ import codePush from 'react-native-code-push';
 function Index() {
   return (
     <View style={styles.container}>
-        <Text style={styles.text}>Teste Deploy</Text>
+        <Text style={styles.text}>Teste Deploy (teste 2)</Text>
     </View>
   );
 }
